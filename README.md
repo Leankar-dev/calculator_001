@@ -1,6 +1,6 @@
 # calculator_001
 
-A new Flutter project.
+Aplicativo basico de calculadora
 
 ## Getting Started
 
